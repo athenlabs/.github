@@ -60,7 +60,11 @@ Some examples of technologies that can be used and implemented by our developers
 
 ### Back-end
 
-<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws" alt="Back-end" />
+<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws,gcp,firebase,supabase" alt="Back-end" />
+
+### Mobile
+
+<img src="https://skills.thijs.gg/icons?i=html,css,js,ts,sass,tailwindcss,react,java,kotlin,swift" alt="Mobile" />
 
 ### Blockchain
 
@@ -68,11 +72,11 @@ Some examples of technologies that can be used and implemented by our developers
 
 ### Database and ORM
 
-<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis" alt="Databases and ORMs" />
+<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis,sequelize,prisma" alt="Databases and ORMs" />
 
 ### Other tools
 
-<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,git,github,gitlab,figma,gulp,webpack,vite" alt="Other tools" />
+<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,wordpress,git,github,gitlab,figma,gulp,webpack,rollupjs,vite" alt="Other tools" />
 
 ## Contact
 
