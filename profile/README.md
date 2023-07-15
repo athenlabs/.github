@@ -88,7 +88,14 @@ If you have any questions, suggestions, or are interested in working with us, pl
 
 ## Members
 
-We are so greatest to work with a communicative, integrated and specialized team at the Athen Labs to provide innovation and modern solutions. See a complete list of members [here](AUTHORS.md)
+We are so greatest to work with a communicative, integrated and specialized team at the Athen Labs to provide innovation and modern solutions.
+
+Sorted in alphabetical order:
+
+- [Alicio Alves](https://github.com/alicioalves) - Partner Developer
+- [Augusto Sardinha](https://github.com/augustosardinha) - Partner Developer
+- [Gabriel Santos Cardoso](https://github.com/eng-gabrielscardoso) - Partner Developer
+- [Luana Maria](https://github.com/Soonas) - Partner
 
 ---
 
