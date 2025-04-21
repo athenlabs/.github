@@ -1,102 +1,100 @@
+<div align="center">
+
 # Athen Labs
 
-Welcome to the official repository of Athen Labs, a Brazilian software house specialized in developing modern technological solutions. In this `README`, you will find all the necessary information to better understand who we are, what we do, and how to collaborate with us.
+![Athen Labs](../assets/athen.png)
+
+Welcome to the official repository of Athen Labs — a Brazilian software house specialising in the development of modern technological solutions. In this `README`, you will find essential information about who we are, what we do, and how you can collaborate with us.
+
+</div>
 
 ## About
 
-Athen Labs is an organization dedicated to turning innovative ideas into high-performance software products and technological solutions. We combine a passion for technology with the expertise of our talented team to deliver exceptional software projects. We are committed to providing customized and efficient solutions for companies across various industries.
+Athen Labs is an organisation dedicated to transforming innovative ideas into high-performance software products and bespoke technological solutions. We blend a passion for technology with the expertise of our talented team to deliver exceptional results. Our commitment lies in crafting tailored and efficient solutions for businesses across a wide range of sectors.
 
-## Mission, Vision and Values
+## Mission, Vision, and Values
 
 ### Mission
 
-Our mission at Athen Labs is to empower businesses with cutting-edge technological solutions that drive growth, efficiency, and innovation. We strive to deliver high-quality software products and services that exceed our clients' expectations and help them achieve their goals. Through our expertise, passion for technology, and commitment to excellence, we aim to be a trusted partner in their digital transformation journey.
+Our mission at Athen Labs is to empower organisations through cutting-edge technological solutions that foster growth, efficiency, and innovation. We are devoted to delivering premium software products and services that exceed our clients’ expectations, supporting them in achieving their goals. Through technical expertise, a passion for innovation, and an unwavering commitment to quality, we aspire to be a trusted partner in their digital transformation journey.
 
 ### Vision
 
-Our vision is to be a leading software house known for our ability to create transformative and impactful technological solutions. We envision a future where businesses leverage the full potential of technology to thrive in a rapidly evolving digital landscape. By continuously pushing boundaries and staying at the forefront of emerging technologies, we aspire to shape the future of software development and contribute to the success of our clients and partners.
+We envision becoming a leading software house, renowned for creating transformative and impactful digital solutions. We see a future where businesses harness the full potential of technology to thrive in an ever-evolving digital landscape. By continually exploring new frontiers and embracing emerging technologies, we aim to shape the future of software development and contribute to the success of our clients and partners.
 
 ### Values
 
-1. Innovation: We embrace innovation and constantly explore new ideas, technologies, and approaches. We encourage creativity and foster an environment that empowers our team members to think outside the box, challenge conventions, and drive continuous improvement.
+1. **Innovation**
+   We embrace innovation by exploring new ideas, technologies, and methodologies. Our culture fosters creativity and encourages our team to think beyond conventions and drive continuous progress.
 
-2. Excellence: We are committed to delivering excellence in everything we do. We strive for the highest standards of quality, precision, and attention to detail in our software solutions. Our dedication to excellence ensures that our clients receive outstanding results that meet their needs and exceed their expectations.
+2. **Excellence**
+   We pursue excellence in every aspect of our work. Through meticulous attention to quality and detail, we ensure our solutions meet the highest standards and consistently exceed expectations.
 
-3. Collaboration: We believe in the power of collaboration and teamwork. We foster an inclusive and supportive work environment where individuals can thrive, share their expertise, and collaborate effectively. By working closely with our clients, partners, and team members, we achieve better outcomes and build lasting relationships.
+3. **Collaboration**
+   We believe in the strength of collaboration. Our inclusive and supportive environment promotes teamwork, open communication, and shared success among clients, partners, and our team.
 
-4. Integrity: We conduct our business with integrity, honesty, and transparency. We prioritize ethical practices, respect confidentiality, and maintain the highest level of professionalism in all interactions. Our commitment to integrity builds trust with our clients, partners, and team members, forming the foundation of successful long-term partnerships.
+4. **Integrity**
+   Integrity underpins our business. We operate with honesty, transparency, and professionalism, earning the trust of our clients and forming long-term, reliable partnerships.
 
-5. Customer Focus: We are deeply committed to our customers' success. We listen attentively to their needs, understand their challenges, and provide tailored solutions that address their unique requirements. By placing the customer at the center of our operations, we build strong relationships and deliver value that drives their growth and satisfaction.
+5. **Customer Focus**
+   Our customers are at the heart of everything we do. We listen, understand their unique challenges, and deliver tailored solutions that add real value to their business.
 
-6. Continuous Learning: We embrace a culture of continuous learning and improvement. We encourage our team members to expand their knowledge, acquire new skills, and stay updated with the latest industry trends and technologies. By fostering a learning mindset, we ensure that we are always at the forefront of innovation and can deliver cutting-edge solutions.
+6. **Continuous Learning**
+   We cultivate a culture of continuous learning. Our team is encouraged to grow their knowledge, adopt new skills, and stay abreast of industry advancements, ensuring we remain on the cutting edge.
 
-Through our mission, vision, and values, we strive to make a positive impact on businesses and society as a whole. We are dedicated to helping organizations unlock their full potential through the power of technology and driving digital transformation in an ever-changing world.
+Through our mission, vision, and values, we strive to positively impact businesses and society. We are committed to helping organisations unlock their full potential through the power of technology.
 
 ## Services
 
 ### Software Development
 
-At Athen Labs, we have deep expertise in software development and work with a wide range of technologies and platforms. We offer web development, mobile app development, enterprise application development, API development, and more. Our highly skilled development team is ready to tackle any challenge and deliver robust and scalable solutions.
+We specialise in building robust and scalable software solutions across various platforms. Our expertise includes web development, mobile applications, enterprise systems, APIs, and more — tailored to meet your specific business needs.
 
 ### Technology Consulting
 
-In addition to software development, we also offer technology consulting services. Our experts are available to help your company make informed decisions about technology, software architecture, product strategy, and digital transformation. We work closely with our clients to understand their specific needs and provide customized solutions that drive growth and success.
+Our consultancy services are designed to help organisations make informed technological decisions. Whether it's architecture planning, product strategy, or digital transformation, our experts are here to support you every step of the way.
 
 ### UX/UI Design
 
-We believe that a good user experience (UX) and attractive user interface (UI) design are essential to the success of any digital product. Our team of experienced designers creates intuitive, elegant, and functional interfaces, ensuring that your users have an exceptional experience when interacting with your software or application.
+A seamless user experience and thoughtful design are crucial to product success. Our design team crafts intuitive and aesthetically pleasing interfaces that enhance user engagement and satisfaction.
 
 ### Maintenance and Support
 
-At Athen Labs, our commitment doesn't end with project delivery. We offer ongoing maintenance and technical support services to ensure that your solutions remain up-to-date, secure, and efficient over time. We are ready to troubleshoot issues, provide updates, and make improvements as needed.
+Our relationship doesn’t end with delivery. We offer ongoing maintenance and technical support to ensure your systems remain up-to-date, secure, and optimised for performance.
 
 ## Technology
 
-Some examples of technologies that can be used and implemented by our developers.
+A brief overview of technologies our developers work with:
 
-### Front-end
+### Main stack
 
-<img src="https://skills.thijs.gg/icons?i=html,css,js,ts,jquery,sass,tailwindcss,bootstrap,angular,react,next,vuejs,nuxtjs,svelte,astro,jest" alt="Front-end" />
-
-### Back-end
-
-<img src="https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,php,laravel,java,maven,spring,python,django,elixir,golang,docker,aws,gcp,firebase,supabase" alt="Back-end" />
-
-### Mobile
-
-<img src="https://skills.thijs.gg/icons?i=html,css,js,ts,sass,tailwindcss,react,java,kotlin,swift" alt="Mobile" />
-
-### Blockchain
-
-<img src="https://skills.thijs.gg/icons?i=js,ts,golang,solidity,nodejs,linux" alt="Blockchain" />
-
-### Database and ORM
-
-<img src="https://skills.thijs.gg/icons?i=mysql,postgresql,sqlite,mongodb,redis,sequelize,prisma" alt="Databases and ORMs" />
+![Main stack](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,nodejs,express,vuejs,nuxtjs,css,less,sass,tailwind,bootstrap,daisyui,primevue,bulma,python,flask,php,laravel,java,go,gin,fiber,rust,solidity,hardhat,chainlink,alchemy,openzeppelin,sqlite,mysql,mariadb,postgresql,mongodb,redis,prisma,firebase,supabase,aws,gcp,github,vercel,netlify,githubactions,linux)
 
 ### Other tools
 
-<img src="https://skills.thijs.gg/icons?i=linux,vscode,postman,bash,python,r,c,wordpress,git,github,gitlab,figma,gulp,webpack,rollupjs,vite" alt="Other tools" />
+![Other tools](https://go-skill-icons.vercel.app/api/icons?i=htmx,rxjs,nestjs,angular,react,nextjs,materialui,django,spring,graphql,grpc,rocket,vyper,truffle,infura,cassandra,rabbitmq,kafka,kubernetes,terraform,ansible,azure,jenkins,prometheus,dart,flutter,reactnative,capacitor,heroku,flyio)
 
 ## Contact
 
-If you have any questions, suggestions, or are interested in working with us, please don't hesitate to reach out.
+We’d love to hear from you! Whether you have a question, suggestion, or would like to work with us:
 
-- Website: [athenlabs.io](https://athenlabs.io)
-- Email: [hello@athenlabs.io](mailto:hello@athenlabs.io)
-- Phone: +55 91 986253389
+- 🌐 Website: [athenlabs.io](https://athenlabs.io)
+- 📧 Email: [eng.gabrielscardoso@gmail.com](mailto:eng.gabrielscardoso@gmail.com)
+- 📞 Phone: [+55 91 98625-3389](tel:+5591986253389) (WhatsApp)
 
-## Members
+## Team
 
-We are so greatest to work with a communicative, integrated and specialized team at the Athen Labs to provide innovation and modern solutions.
+We are proud to work with a communicative, collaborative, and highly skilled team, united in delivering innovative and modern solutions.
 
-Sorted in alphabetical order:
+Alphabetically:
 
-- [Alicio Alves](https://github.com/alicioalves) - Partner Developer
-- [Augusto Sardinha](https://github.com/augustosardinha) - Partner Developer
-- [Gabriel Santos Cardoso](https://github.com/eng-gabrielscardoso) - Partner Developer
-- [Luana Maria](https://github.com/Soonas) - Partner
+- [Gabriel Santos Cardoso](https://github.com/eng-gabrielscardoso) – Founder & Developer
+- [Luana Maria](https://github.com/Soonas) – Founder & Manager
 
 ---
 
-_Thank you for visiting the Athen Labs! We look forward to collaborating with you and helping drive your projects forward with modern and innovative technological solutions._
+<div align="center">
+
+_Thank you for visiting Athen Labs. We look forward to collaborating with you and helping to drive your projects forward through innovation and technology._
+
+</div>

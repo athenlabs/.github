@@ -1,3 +1,3 @@
 # Athen Labs - Public Source
 
-Source code of the default public files for the Athen Labs organization.
+Source code of the default public files for the Athen Labs organisation.
